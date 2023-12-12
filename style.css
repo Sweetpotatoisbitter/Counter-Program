@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 8px;
+}
+
+
+
+
+
+
+
+#countlabel{
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+
+
+}
+body{
+    display: inline-block;
+}
+
+button{
+   
+    margin: 20px;
+ background-color:rgb(244, 61, 61);
+ border-radius: 12px;
+ color: white;
+ border: white;
+ font-size: large;
+ }
+
+ button:hover{
+    background-color: red;
+    border: white;
+    color: white;
+ }
